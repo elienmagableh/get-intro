@@ -4,7 +4,7 @@
 ![git](https://image.slidesharecdn.com/gitworkshop-100629090825-phpapp01/95/introduction-to-git-5-728.jpg?cb=1337526359)
 ## operation 
 *Git mostly relies on local operations because most necessary information can be found in local resources. This allows for process expediency because a project’s history resides on the local disk, eliminating the need to fetch history information from the server, and allowing one to continue work on a project even when not online or on a VPN*
-![local](https://image.slidesharecdn.com/gitintro-141202232243-conversion-gate02/95/basic-git-intro-10-638.jpg?cb=1417563183)
+![local](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-jcVugMlkBiFAQL2EzlZ22MOLwjIUEd6NHg&usqp=CAU)
 ## history of git 
 *As with many great things in life, Git began with a bit of creative destruction and fiery controversy.
 
