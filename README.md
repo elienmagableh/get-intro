@@ -1,5 +1,5 @@
-| section 1 | what does html maen |
+| section   | url |
 |-----------|---------------------|
-|section 2  |whate does css mean  |
-|-----------|---------------------|
-|section 3  |visitor achive       |
+|raed 1     | https://elienmagableh.github.io/growth_-mindset/||
+|read 2     | https://elienmagableh.github.io/git-intro/    |
+|read 3     |   https://elienmagableh.github.io/git-intro/  |
